@@ -7,3 +7,19 @@
     color: black;
     font-family: Verdana;
   }
+
+  #body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  #left{
+    width:fit-content;
+    height:auto;
+  }
+
+  #right{
+    width: 200px;
+    height:auto;
+  }
