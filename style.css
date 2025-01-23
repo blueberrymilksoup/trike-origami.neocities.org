@@ -16,7 +16,9 @@
 
   #left{
     width:fit-content;
-    height:auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
   }
 
   #right{
