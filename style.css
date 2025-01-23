@@ -8,6 +8,10 @@
     font-family: Verdana;
   }
 
+  .people{
+    width: 150px;
+  }
+
   #body{
     display: flex;
     flex-direction: row;
